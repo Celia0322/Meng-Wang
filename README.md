@@ -1,7 +1,7 @@
-# Hi there, I'm Meng Wang 👋 Currently studying Information Technology at Centria University of Applied Sciences.
+# Hi there, I'm Meng Wang 👋 
 🚀 **HR Specialist | IT Student | Blending HR expertise with IT skills to build innovative solutions**  
 
-Welcome to my GitHub! I'm an HR professional transitioning into the IT world, with 7+ years of experience in HR systems, employee training, recruitment, and ERP systems. I'm now switching from business to IT because I realize that technology can drive innovation and solve real problems. I’m passionate about combining my HR background with technical knowledge to bridge the gap between the two and create practical solutions that meet the goals of the reality.
+Welcome to my GitHub! I'm an HR professional transitioning into the IT world, with 6+ years of experience in HR systems, employee training, recruitment, and ERP systems. I'm now switching from business to IT because I realize that technology can drive innovation and solve real problems. I’m passionate about combining my HR background with technical knowledge to bridge the gap between the two and create practical solutions that meet the goals of the reality.
 
 
 ### 🔍 **About Me**
