@@ -28,9 +28,9 @@ Welcome to my GitHub! I'm an HR professional transitioning into the IT world, wi
 
 ### 🌱 **Projects & Learning**  
 Here are some projects I’m working on or plan to develop:  
-1. **HR Dashboard (Deno + Hono)** – A web app to manage employee data and training progress  
-2. **Education Technology Game** – A simple game for kids to learn new words  
-3. **Dockerized Web Applications** – Learning to containerize and deploy apps using Docker  
+1. **HR Dashboard (Deno + Hono)– Planned Project** – A web app to manage employee data and training progress  
+2. **Education Technology Game – Learning in Progress** – A simple game for kids to learn new words  
+3. **Dockerized Web Applications – Learning in Progress** – Learning to containerize and deploy apps using Docker  
 
 ---
 
