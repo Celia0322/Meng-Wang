@@ -36,7 +36,7 @@ Here are some projects I’m working on or plan to develop:
 
 ### 🌍 **Interests & Fun Facts**  
 - ✈️ I love traveling and have visited many European countries  
-- 🍽️ Enjoy exploring different cuisines and cultures  
+- 🍽️ Enjoy exploring different cuisines, cultures, and learning new languages
 - 📖 Passionate about lifelong learning and adapting to new challenges  
 - 🌿 Nature enthusiast and love connecting with the outdoors  
 
@@ -44,6 +44,6 @@ Here are some projects I’m working on or plan to develop:
 
 ### 📫 **Connect with Me**  
 - [LinkedIn](https://www.linkedin.com/in/meng-wang-161613132/?locale=en_US)  
-- Email: [Add your email here]  
+- Email: meng.wang0322@gmail.com  
 
 
