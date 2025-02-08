@@ -1,4 +1,4 @@
-### Hi there, I'm Meng Wang 👋  
+### Hi there, I'm Meng Wang 👋  Currently studying Information Technology at Centria University of Applied Sciences.
 🚀 **Blending HR expertise with IT skills to create innovative solutions!**  
 
 - 🎯 **Background:** 7+ years of experience in HR, focusing on employee training, recruitment, ERP systems, and data analysis.  
