@@ -1,7 +1,8 @@
 # Hi there, I'm Meng Wang 👋 Currently studying Information Technology at Centria University of Applied Sciences.
 🚀 **HR Specialist | IT Student | Blending HR expertise with IT skills to build innovative solutions**  
 
-Welcome to my GitHub! I'm an HR professional transitioning into the IT world, with 7+ years of experience in HR systems, employee training, recruitment, and ERP systems. I’m passionate about combining my HR background with technical knowledge to create meaningful solutions that improve HR processes and employee experiences.
+Welcome to my GitHub! I'm an HR professional transitioning into the IT world, with 7+ years of experience in HR systems, employee training, recruitment, and ERP systems. I'm now switching from business to IT because I realize that technology can drive innovation and solve real problems. I’m passionate about combining my HR background with technical knowledge to bridge the gap between the two and create practical solutions that meet the goals of the reality.
+
 
 ### 🔍 **About Me**
 - 📚 Currently studying IT, focusing on web development, Deno, Docker, and system integration  
@@ -13,7 +14,7 @@ Welcome to my GitHub! I'm an HR professional transitioning into the IT world, wi
 
 ### 💼 **My Experience**  
 - **HR Specialist**: Managed HR systems for 5000+ employees, supported ERP implementation, and conducted data analysis  
-- **Training Specialist**: Organized employee training programs and delivered ERP system training  
+- **Training Specialist**: Organized employee training programs and delivered ERP system training for 70+ bookstores
 - **Recruitment Coordinator**: Coordinated large-scale recruitment processes and optimized onboarding  
 
 ---
@@ -21,7 +22,7 @@ Welcome to my GitHub! I'm an HR professional transitioning into the IT world, wi
 ### 🔧 **Skills & Technologies**  
 - **Languages & Tools**: Deno, Hono, Docker, GitHub Actions, JavaScript, HTML, CSS  
 - **HR Systems**: ERP systems, HR software, data analysis, employee training  
-- **Other Tools**: Excel, Power BI, Tableau  
+- **Other Tools and Skills**: Excel, C#, Python, Linux, Database, AWS, Microsoft Azure, UI/UX design, IoT(Arduino), Unity, Cybersecurity
 
 ---
 
